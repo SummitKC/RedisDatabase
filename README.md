@@ -28,8 +28,7 @@ automatically — no need to edit `CMakeLists.txt`.
 ## Prerequisites
 
 - A C++20 compiler (developed against GCC 13)
-- CMake >= 3.16 (`sudo apt install cmake` on Debian/Ubuntu — not installed
-  on this machine yet)
+- CMake >= 3.16 (`sudo apt install cmake` on Debian/Ubuntu)
 - Internet access on first configure, to fetch GoogleTest via CMake's
   `FetchContent`
 
